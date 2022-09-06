@@ -12,7 +12,8 @@ int main()
     printf("Hola soy Christian Cedillo");
     printf("Hola soy Emma Fuentes");
     printf("Hola soy Diana Serrano");
-    printf("Hola soy Marlene De La Cruz")
+    printf("Hola soy Marlene De La Cruz");
+    printf("Hola soy Israel Raymundo");
     
     return 0;
 }
